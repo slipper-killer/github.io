@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head rel="stylesheet" href="/style.css">
+        <meta charset="utf-8">
+        <title>Задание</title>
+    </head>
+    <body>
+        <div id="header">
+            <h1>Васильев Михаил</h1>
+            <h2>Backend недоначинающий недоразработчик</h2>
+            <p>Моя <a href="mailto:m.vasilyev2020@yandex.ru">почта</a><br><a href="https://t.me/m_vasilyev">Моя телега</a></p>
+        </div>
+
+        <div id="main">
+            <p>Вводный текст</p>
+            <section>
+                <h2>Опыт работы</h2>
+                <ul>
+                    <li>3 года в головном институте радиожлектронной промышленности Минпромторга России</li>
+                    <li>1 год в инжиниринговой компании в сфере газодобычи</li>
+                </ul>
+            </section>
+            <section>
+                <h2>Образование</h2>
+                <h3>НИЯУ МИФИ</h3>
+                <ul>
+                    <li>Бакалавриат - "Управление проектами эновационной экономики</li>
+                    <li>Магистратура - "Прикладная информатика"</li>
+                </ul>
+            </section>
+            <section>
+                <h2>Другие навыки и увлечения</h2>
+                <ul>
+                    <li>Большой теннис</li>
+                    <li>Самообразование</li>
+                    <li>Кино</li>
+                    <li>Настольные и видеоигры</li>
+                </ul>
+            </section>
+        </div>
+
+        <div id="footer">
+            <h4>Васильев Михаил</h4>
+            115409, Россия, Москва, Коширское ш. 31, +7 (916) 027 13 67, <a href="mailto:m.vasilyev2020@yandex.ru">m.vasilyev2020@yandex.ru</a>
+        </div>
+    </body>
+</html>
